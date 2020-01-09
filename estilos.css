@@ -1,0 +1,34 @@
+body{
+    background-color: paleturquoise;
+}
+h1{
+    text-align: right;
+}
+span.cs{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: red;
+}
+
+h2{
+    font-family: monospace;
+    font-variant: small-caps;
+}
+
+span.cs2{
+    color: darkorange;
+    font-weight: bolder;
+}
+
+span.num{
+    color: orange;
+}
+
+span.nom{
+    color: darkgreen;
+    background-color: white;
+}
+
+address {
+    font-size: 0.8rem;
+    text-align: center;
+}
